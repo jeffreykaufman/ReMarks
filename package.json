@@ -1,0 +1,9 @@
+{
+    "name": "remarks-core",
+    "version": "1.0.2",
+    "bugs": "https://github.com/jeffreykaufman/ReMarks/issues",
+    "license": "MIT",
+    "author": "Jeffrey Kaufman <me@jeffreyscode.com> (https://www.jeffreyscode.com/)",
+    "main": "lib/index.js",
+    "repository": "github:jeffreykaufman/ReMarks"
+}
